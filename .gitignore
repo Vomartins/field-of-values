@@ -1,0 +1,8 @@
+# 1. Ignore input files
+matrices/
+
+# 2. Ignore output files
+figures/
+
+# 3. Ignore virtual env dir
+fov/
